@@ -33,9 +33,33 @@ Link do website: <a href="https://alexfn93.github.io/Gerador_de_Senha/">Site</a>
 
 ## Funcionalidades | Functionalities
 
+<p> Português </p>
+
 :heavy_check_mark: Gera senha aleatória de 4 a 64 dígitos. 
 
-:heavy_check_mark: .  
+:heavy_check_mark: Parâmetro de força da senha, onde vermelho representa nível de senha fraca, amarelo nível de senha regular e verde nível de senha forte.  
+
+:heavy_check_mark: Botão para copiar senha. 
+
+:heavy_check_mark: Botão para gerar nova senha aleatória. 
+
+:heavy_check_mark: Botão para personalizar senha com letras maiúsculas, números ou símbolos. 
+
+<br><br>
+
+<p> English </p>
+
+:heavy_check_mark: Generate ramdom password from 4 to 64 digits.
+
+:heavy_check_mark: Password strength parameter, where red weak password level, yellow regular passsword level and green strong password level.
+
+:heavy_check_mark: Button to copy password.
+
+:heavy_check_mark: Button to generate new random password.
+
+:heavy_check_mark: Button to customize password with capital letters, numbers or symbols. 
+
+<br><br>
 
 
 ## Linguagens, dependências e libs utilizadas | Languages, dependencies and libs used :books:
